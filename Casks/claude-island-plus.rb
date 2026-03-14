@@ -9,7 +9,7 @@ cask "claude-island-plus" do
 
   depends_on macos: ">= :sonoma"
 
-  app "Claude Island+.app"
+  app "Claude Island Plus.app"
 
   zap trash: [
     "~/Library/Application Support/ClaudeIslandPlus",
